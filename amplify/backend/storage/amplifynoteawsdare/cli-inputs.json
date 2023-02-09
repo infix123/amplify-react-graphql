@@ -1,0 +1,14 @@
+{
+  "resourceName": "amplifynoteawsdare",
+  "policyUUID": "e45d2a5c",
+  "bucketName": "bucketname101",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
